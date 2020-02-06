@@ -1,0 +1,11 @@
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\obj\Debug\netcoreapp3.1\ProdCreate.csprojAssemblyReference.cache
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\obj\Debug\netcoreapp3.1\ProdCreate.AssemblyInfoInputs.cache
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\obj\Debug\netcoreapp3.1\ProdCreate.AssemblyInfo.cs
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\bin\Debug\netcoreapp3.1\ProdCreate.exe
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\bin\Debug\netcoreapp3.1\ProdCreate.deps.json
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\bin\Debug\netcoreapp3.1\ProdCreate.runtimeconfig.json
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\bin\Debug\netcoreapp3.1\ProdCreate.runtimeconfig.dev.json
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\bin\Debug\netcoreapp3.1\ProdCreate.dll
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\bin\Debug\netcoreapp3.1\ProdCreate.pdb
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\obj\Debug\netcoreapp3.1\ProdCreate.dll
+C:\Users\Thorsten\source\repos\Torte1983\prodcreate-overview\ProdCreate\obj\Debug\netcoreapp3.1\ProdCreate.pdb
